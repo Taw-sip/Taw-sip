@@ -11,9 +11,10 @@ I am a student. I am learning Web Development. I want become a Fullstack Web Dev
 ## 👨‍🎓 Skills & Experiance:
 
 ✅ HTML <br>
-✅ CSS </br>
-✅ JavaScript
-✅ Photoshop / Illustrator
+✅ CSS <br>
+✅ JavaScript <br>
+✅ Git & Github <br>
+✅ Photoshop / Illustrator <br>
 
 <link
   rel="stylesheet"
