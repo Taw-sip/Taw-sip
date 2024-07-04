@@ -9,13 +9,19 @@
 I am a student. I am learning Web Development. I want become a Fullstack Web Developer. Now I am learning JavaScript. I enjoy this journey very much.   
 
 ### 👨‍🎓Skills & Experiance:
+
 ✅ HTML
+
 ✅ CSS
+
 ✅ JavaScript
+
 ✅ Photoshop / Illustrator
 
-<link  rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.7/src/app/ci.min.css" />
-
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.7/src/app/ci.min.css"
+/>
 <i class="ci ci-html5 ci-2x"></i> <i class="ci ci-css ci-2x"></i>  <i class="ci ci-js  ci-2x"></i> <i class="ci ci-git  ci-2x"></i>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
