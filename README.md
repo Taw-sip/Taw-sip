@@ -16,7 +16,8 @@ I am a student. I am learning Web Development. I want become a Fullstack Web Dev
 ✅ Git & Github <br>
 ✅ Photoshop / Illustrator <br>
 
-![HTML](https://cdn-icons-png.flaticon.com/128/174/174854.png height='20')  ![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)  ![JAVASCRIPT](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)  ![GIT](https://cdn-icons-png.flaticon.com/128/15466/15466163.png)  ![Photoshop](https://cdn-icons-png.flaticon.com/128/5968/5968520.png)  ![Illustrator](https://cdn-icons-png.flaticon.com/128/5968/5968472.png)
+<img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="Example Image" width="200">
+![HTML](https://cdn-icons-png.flaticon.com/128/174/174854.png)  ![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)  ![JAVASCRIPT](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)  ![GIT](https://cdn-icons-png.flaticon.com/128/15466/15466163.png)  ![Photoshop](https://cdn-icons-png.flaticon.com/128/5968/5968520.png)  ![Illustrator](https://cdn-icons-png.flaticon.com/128/5968/5968472.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
