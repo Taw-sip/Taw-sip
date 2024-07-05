@@ -16,8 +16,7 @@ I am a student. I am learning Web Development. I want become a Fullstack Web Dev
 ✅ Git & Github <br>
 ✅ Photoshop / Illustrator <br>
 
-<img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="Example Image" width="200">
-![HTML](https://cdn-icons-png.flaticon.com/128/174/174854.png)  ![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)  ![JAVASCRIPT](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)  ![GIT](https://cdn-icons-png.flaticon.com/128/15466/15466163.png)  ![Photoshop](https://cdn-icons-png.flaticon.com/128/5968/5968520.png)  ![Illustrator](https://cdn-icons-png.flaticon.com/128/5968/5968472.png)
+<img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="20">  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="20">  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JAVASCRIPT" width="20">  <img src="(https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="GIT" width="20">  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="Phoshop" width="20">  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Illustrator" width="20">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
